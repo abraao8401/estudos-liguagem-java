@@ -19,3 +19,5 @@
 - Estruturas de Repetição e Arrays em Java <a href="certificado9-dio.pdf">(certificado9-dio.pdf)</a>
 
 - Entendendo Métodos Java <a href="certificado10-dio.pdf">(certificado10-dio.pdf)</a>
+
+- Programação Orientada a Objetos <a href="certificado11-dio.pdf">(certificado11-dio.pdf)</a>
